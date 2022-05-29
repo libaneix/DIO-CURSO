@@ -1,0 +1,24 @@
+semântica
+
+<section>: sessão genérica de conteúdo
+
+<header>: cabeçalho da página
+
+<article>: conteúdo relevante, como o artigo de um blog
+
+<aside>: conteúdo relacionado ao conteúdo principal da página
+
+<footer>: rodapé da página, ou de alguma outra tag
+
+<h1>-<h6>: títulos e subtítulos (só pode ter 1 h1 por página)
+
+Links (tag <a>)
+
+<a href="link">Instagram</a>
+<a href="otherlink">emil</a> 
+
+<a target="_blank">Link</a>
+
+"_blank" diz para abrir o link em uma nova aba
+
+
