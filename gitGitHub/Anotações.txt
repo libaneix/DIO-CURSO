@@ -1,0 +1,13 @@
+GIT E GITHUB
+
+GIT INIT: Inicializa um repósitório na pasta em que você está. Cria uma pasta invisível ".git"
+
+GIT CLONE "link do repositório": copia um repositório remeto para um local
+
+GIT ADD "nome arquivo": move o arquivo direto para o staged mode, o git reconhece o arquivo.
+
+GIT STATUS: status dos arquivos
+
+git push origin main: manda para o repositório remoto principal
+
+git remote add origin https://github.com/user/repo.git: linka com o repositório desejado
