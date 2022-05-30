@@ -21,4 +21,9 @@ Links (tag <a>)
 
 "_blank" diz para abrir o link em uma nova aba
 
+Tag <img> =-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-=
+
+<img src="img/avatar.jpg">
+<img alt="foto de alguem"> "alt" é usado por uma questão de acessibilidade
+
 
