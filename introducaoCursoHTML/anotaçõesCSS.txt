@@ -1,0 +1,36 @@
+     font-size: 16px;
+     font-style: italic;
+     font-family: Arial;
+     font-weight: bold ou normal;
+     text transform: uppercase; (altera entre maiúsculo e minúsculo ou primeira letra em maiúsculo)
+     text-decoration: underline; (coloca linhar em cima, em baixo ou no meio da letra)
+
+
+     border: 3px solid black;
+     border-top: ;
+     border-right: ;
+     border-bottom: ;
+     border-left: ;
+     border-radius: 10px;
+
+     padding-bottom: ;
+     padding-top: ;
+     padding-right: ;
+     padding-left: ;
+     padding: 10px;
+
+     background-color: white;
+
+     list-style-type: square;
+
+     dimensão e alinhamento:
+     width: ; Largura
+     height: ; Altura
+     max-width: ; largura máxima
+     max-height: ; altura máxima
+     margin: 10px;
+     text-align: ;
+
+
+
+box model tem 4 áreas, são elas da mais externa para mais interna: margin, border, padding(espaçamento entre conteúdo e borda), content
