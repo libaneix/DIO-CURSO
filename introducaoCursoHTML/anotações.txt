@@ -26,4 +26,8 @@ Tag <img> =-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-=
 <img src="img/avatar.jpg">
 <img alt="foto de alguem"> "alt" é usado por uma questão de acessibilidade
 
+Tag <ul>(lista com pontinhos) e <ol>(lista numerada) =-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-=
+
+<li> itens da lista
+
 
